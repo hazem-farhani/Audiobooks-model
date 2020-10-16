@@ -1,6 +1,9 @@
 __Model:__<br />
 predicts that a customer will buy again from the audio book company so that it will not spend its advertisement budget on individuals who are unlikely to come back.
-This is a classification problem with two classes: won't buy and will buy, represented by 0s and 1s.
+This is a classification problem with two classes: won't buy and will buy, represented by 0s and 1s.<br />
+
+__Technology:__<br />
+Neural Network with Tensorflow.<br />
 
 
 __The database:__<br />
